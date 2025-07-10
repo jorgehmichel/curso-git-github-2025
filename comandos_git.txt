@@ -1,0 +1,4 @@
+git init . -> cria um diretorio oculto .git e torna o diretorio atual especial (permite versionamento)
+git status -> mostra o status do trabalho
+git commit -m -> faz commit do que estava pra ser commitado
+git add <file> -> adiciona arquivos para o commit
