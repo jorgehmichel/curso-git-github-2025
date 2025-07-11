@@ -4,3 +4,5 @@ git commit -m "msg" -> faz commit do que estava pra ser commitado
 git add <file> -> adiciona arquivos para o commit
 git log -> mostra o historico de commits
 git diff <nome do arquivo> -> mostra o que foi alterado no arquivo
+git checkout -b <nome da branch> -> cria uma nova branch. O -b é pra quando  branch não existe e precisa ser criada
+git branch -> mostra as branches e em qual voce esta
