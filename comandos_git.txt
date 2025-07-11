@@ -3,3 +3,4 @@ git status -> mostra o status do trabalho
 git commit -m "msg" -> faz commit do que estava pra ser commitado
 git add <file> -> adiciona arquivos para o commit
 git log -> mostra o historico de commits
+git diff <nome do arquivo> -> mostra o que foi alterado no arquivo
