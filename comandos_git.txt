@@ -8,3 +8,7 @@ git checkout -b <nome da branch> -> cria uma nova branch. O -b é pra quando  br
 git branch -> mostra as branches e em qual voce esta
 git merge <nome da branch que quer trazer> -> tras todas as alteracoes de uma branch para outra
 git branch -d <nome da branch> -> deleta a branch
+got clone <URL HTTPS> -> clona um projeto do GitHub para a local
+git remote add origin <URL> -> adiciona uma origin da nuvem
+git push origin <nome da branch> -> commita na nuvem
+git pull origin <nome da branch> -> atualiza a branch local (synca)
