@@ -12,3 +12,4 @@ got clone <URL HTTPS> -> clona um projeto do GitHub para a local
 git remote add origin <URL> -> adiciona uma origin da nuvem
 git push origin <nome da branch> -> commita na nuvem
 git pull origin <nome da branch> -> atualiza a branch local (synca)
+git fetch -> busca todas as branches no repositorio remoto. Se der um git checkout <nome do branch que ja existe no remoto, ele clona o repositorio localmente
